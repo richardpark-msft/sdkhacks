@@ -1,4 +1,4 @@
-package azgohacks
+package gohacks
 
 import (
 	"bytes"
