@@ -1,4 +1,4 @@
-module azgohacks
+module gohacks
 
 go 1.21.0
 
