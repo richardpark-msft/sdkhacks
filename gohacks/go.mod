@@ -1,4 +1,4 @@
-module gohacks
+module github.com/richardpark-msft/sdkhacks/gohacks
 
 go 1.21.0
 
